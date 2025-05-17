@@ -4,12 +4,12 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 200vh;
+    height: 160vh;
     margin: 0;
 }
 header {
     background-color:antiquewhite;
-    margin-inline: 500px;
+    margin-inline: 440px;
     border-radius: 10px;
     margin-bottom: 30px;
     opacity: 80%;
@@ -22,6 +22,7 @@ a {
     color:rgb(83, 81, 81);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
+    margin-right: 50px;
 }
 div {
     background-color:antiquewhite;
