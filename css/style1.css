@@ -1,0 +1,39 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2019/10/10/21/26/japan-4540612_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
+header {
+    background-color:antiquewhite;
+    margin-inline: 555px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    opacity: 80%;
+}
+h1 {
+    text-align: center;
+    color: brown;
+}
+a {
+    color:rgb(83, 81, 81);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+div {
+    background-color:antiquewhite;
+    margin-inline: 30px;
+    border-radius: 8px;
+    opacity: 80%;
+    padding: 30px;
+    height: 700px;
+}
+img {
+    width: 180px;
+    height: 220px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2017/05/18/06/29/alarm-clock-2322673_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
+header {
+    background-color:antiquewhite;
+    margin-inline: 500px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    opacity: 80%;
+}
+h1 {
+    text-align: center;
+    color: brown;
+}
+a {
+    color:rgb(83, 81, 81);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+div {
+    background-color:antiquewhite;
+    margin-inline: 30px;
+    border-radius: 8px;
+    opacity: 80%;
+    padding: 30px;
+    height: 900px;
+}
+iframe {
+    width: 250px;
+    height: 190px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+img {
+    width: 180px;
+    height: 220px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}

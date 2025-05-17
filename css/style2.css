@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2018/03/04/05/02/literature-3197260_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
+header {
+    background-color:antiquewhite;
+    margin-inline: 440px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    opacity: 80%;
+}
+h1 {
+    text-align: center;
+    color: brown;
+}
+a {
+    color:rgb(83, 81, 81);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+div {
+    background-color:antiquewhite;
+    margin-inline: 30px;
+    border-radius: 8px;
+    opacity: 80%;
+    padding: 30px;
+    height: 700px;
+}
